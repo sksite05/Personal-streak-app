@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1240" viewBox="0 0 720 1240" role="img" aria-labelledby="title desc">
+  <title id="title">StreakSip app dashboard</title>
+  <desc id="desc">A mockup of the personal streak and hydration tracking app interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eef2f6"/>
+      <stop offset="100%" stop-color="#e6ebf0"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff9e3d"/>
+      <stop offset="100%" stop-color="#f7741f"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#dfeefb"/>
+      <stop offset="100%" stop-color="#c6e6ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#c0ccd8" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="1240" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="70" font-size="22" fill="#7a7a80">1:09</text>
+    <text x="500" y="70" font-size="20" fill="#4b4b4e">2:28</text>
+    <text x="540" y="72" font-size="18" fill="#4b4b4e">KB/s</text>
+    <text x="619" y="70" font-size="18" fill="#4b4b4e">LTE</text>
+    <circle cx="650" cy="58" r="30" fill="none" stroke="#4a4a50" stroke-width="2" opacity="0.5"/>
+    <path d="M650 42 L650 74 M634 58 L666 58" stroke="#4a4a50" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+
+    <text x="60" y="130" font-size="26" fill="#4d5663">Good afternoon</text>
+    <g transform="translate(470,96)">
+      <rect x="0" y="0" width="74" height="54" rx="18" fill="#d9edf8"/>
+      <circle cx="18" cy="27" r="9" fill="#f7f7f7"/>
+      <circle cx="37" cy="18" r="10" fill="#f5fbff"/>
+      <path d="M17 26 L23 18 L30 26 L36 18 L38 25" fill="none" stroke="#7bc5f3" stroke-width="3" opacity="0.7"/>
+    </g>
+    <g transform="translate(558,96)">
+      <circle cx="24" cy="23" r="20" fill="#f3c61d"/>
+      <path d="M24 8 L27 18 L36 22 L27 26 L24 38 L21 26 L12 22 L21 18 Z" fill="#fff4bf"/>
+    </g>
+    <g transform="translate(618,96)">
+      <circle cx="22" cy="22" r="16" fill="#dfe5eb"/>
+      <circle cx="22" cy="22" r="7" fill="#7d8797"/>
+      <path d="M22 6 L22 14 M22 30 L22 38 M6 22 L14 22 M30 22 L38 22" stroke="#7d8797" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <text x="60" y="220" font-size="62" font-weight="700" fill="#2f3b4d">Welcome to</text>
+    <text x="60" y="286" font-size="62" font-weight="700" fill="#2f3b4d">StreakSip</text>
+
+    <g transform="translate(60,325)">
+      <rect x="0" y="0" width="140" height="86" rx="42" fill="#4f8de9"/>
+      <circle cx="42" cy="43" r="28" fill="#5fa3ff"/>
+      <text x="76" y="56" font-size="34" font-weight="700" fill="#ffffff">L1</text>
+      <text x="150" y="54" font-size="30" font-weight="500" fill="#2f3b4d">Beginner</text>
+    </g>
+    <text x="510" y="370" font-size="30" fill="#2f3b4d">165 / 200 XP</text>
+    <rect x="60" y="415" width="600" height="12" rx="6" fill="#dfeaf7"/>
+    <rect x="60" y="415" width="510" height="12" rx="6" fill="#3a9ae6"/>
+    <circle cx="570" cy="421" r="9" fill="#3a9ae6"/>
+
+    <rect x="60" y="500" width="600" height="130" rx="28" fill="#e7edf3"/>
+    <text x="104" y="563" font-size="52" font-weight="700" fill="#2f3b4d">“We are what we repeatedly do.</text>
+    <text x="104" y="620" font-size="52" font-weight="700" fill="#2f3b4d">Excellence, then, is not an act,</text>
+    <text x="104" y="677" font-size="52" font-weight="700" fill="#2f3b4d">but a habit.”</text>
+
+    <g filter="url(#shadow)">
+      <rect x="40" y="700" width="640" height="360" rx="38" fill="#edf4f8"/>
+      <rect x="56" y="725" width="600" height="88" rx="28" fill="#edf4f8"/>
+      <text x="95" y="780" font-size="32" font-weight="700" fill="#2f3b4d">Daily Reading &amp; Focus</text>
+      <path d="M575 748 L610 782 L575 816" fill="none" stroke="#3a9ae6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="86" y="836" width="190" height="180" rx="30" fill="#f4a465" opacity="0.14"/>
+      <path d="M152 870 C120 820, 80 840, 94 890 C108 940, 96 950, 126 979 C155 1002, 167 1020, 168 1058 C186 1039, 196 1023, 234 1000 C254 924, 234 884, 210 870 C196 860, 180 858, 152 870Z" fill="url(#orange)"/>
+      <path d="M150 903 Q142 899 138 889 Q130 900 138 910 Q133 914 130 922 Q120 928 127 939 Q144 935 155 927 Q166 921 162 909 Q157 901 150 903Z" fill="#fff0c4" opacity="0.9"/>
+      <text x="315" y="890" font-size="62" font-weight="700" fill="#2c3848">0</text>
+      <text x="302" y="950" font-size="42" font-weight="600" fill="#697387">DAYS</text>
+      <text x="300" y="1005" font-size="28" fill="#6d7785">Ready to conquer today!</text>
+      <rect x="95" y="1060" width="530" height="90" rx="30" fill="url(#orange)"/>
+      <text x="225" y="1118" font-size="30" font-weight="700" fill="#ffffff">MARK AS DONE TODAY</text>
+      <path d="M155 1108 L145 1098 L160 1090 L176 1098 L160 1108 Z" fill="#ffe2a8"/>
+      <circle cx="164" cy="1098" r="7" fill="#ffdb87"/>
+      <path d="M170 1100 L174 1098 L180 1101 L176 1107 L170 1100 Z" fill="#ffb868"/>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="60" y="1090" width="600" height="120" rx="26" fill="#edf4f8"/>
+      <rect x="97" y="1109" width="485" height="52" rx="18" fill="#dfeaf7"/>
+      <text x="140" y="1146" font-size="28" fill="#2f3b4d">Mark Yesterday as Done (Late Log)</text>
+      <g transform="translate(565,1114)">
+        <circle cx="25" cy="25" r="25" fill="#dfeaf7"/>
+        <path d="M12 23 L23 34 L38 15" fill="none" stroke="#3a9ae6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+
+    <rect x="60" y="1225" width="600" height="120" rx="28" fill="#edf4f8"/>
+    <text x="155" y="1285" font-size="56" font-weight="700" fill="#2f3b4d">0</text>
+    <text x="475" y="1285" font-size="56" font-weight="700" fill="#2f3b4d">0</text>
+    <text x="108" y="1342" font-size="24" fill="#697387">Longest Streak</text>
+    <text x="470" y="1342" font-size="24" fill="#697387">Total Done</text>
+
+    <g transform="translate(60,1365)">
+      <rect x="0" y="0" width="600" height="190" rx="28" fill="#edf4f8"/>
+      <rect x="24" y="20" width="30" height="30" fill="#dfeaf7"/>
+      <text x="64" y="44" font-size="24" fill="#2f3b4d">Daily Hydration</text>
+      <text x="80" y="100" font-size="32" fill="#2f3b4d">Bottle 1: 0 / 2000 ml</text>
+      <rect x="26" y="120" width="548" height="14" rx="7" fill="#dfeaf7"/>
+      <rect x="26" y="120" width="250" height="14" rx="7" fill="#3a9ae6"/>
+      <rect x="470" y="35" width="95" height="52" rx="22" fill="#dfeaf7"/>
+      <text x="520" y="70" font-size="30" fill="#2f3b4d">→</text>
+    </g>
+
+    <g transform="translate(120,1585)">
+      <text x="0" y="0" font-size="28" fill="#2f3b4d">NEXT MILESTONE REWARD</text>
+      <g transform="translate(0,40)">
+        <circle cx="40" cy="34" r="34" fill="#dfeaf7"/>
+        <path d="M20 27 L30 18 L40 32 L50 18 L60 27 L52 45 L28 45 Z" fill="#3a9ae6"/>
+        <text x="-10" y="96" font-size="24" fill="#2f3b4d">Streak</text>
+      </g>
+      <g transform="translate(155,40)">
+        <rect x="0" y="0" width="70" height="70" rx="18" fill="#dfeaf7"/>
+        <path d="M20 36 L35 22 L50 36 L40 36 L40 54 L30 54 L30 36 Z" fill="#3a9ae6"/>
+        <text x="10" y="96" font-size="24" fill="#2f3b4d">Water</text>
+      </g>
+      <g transform="translate(310,40)">
+        <circle cx="45" cy="33" r="32" fill="#dfeaf7"/>
+        <path d="M60 20 L50 52 L32 52 L22 20 Z" fill="#ffcf4e"/>
+        <text x="10" y="96" font-size="24" fill="#2f3b4d">Trophies</text>
+      </g>
+      <g transform="translate(470,40)">
+        <rect x="0" y="0" width="70" height="70" rx="18" fill="#dfeaf7"/>
+        <path d="M15 20 L25 20 L25 48 L15 48 Z M32 12 L42 12 L42 48 L32 48 Z M49 28 L59 28 L59 48 L49 48 Z" fill="#44627f"/>
+        <text x="0" y="96" font-size="24" fill="#2f3b4d">Analytics</text>
+      </g>
+    </g>
+  </g>
+</svg>
