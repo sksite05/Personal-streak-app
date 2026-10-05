@@ -1,5 +1,5 @@
 ## App Preview
 
-![StreakSip Dashboard](assets/streaksip-dashboard.png)
+![StreakSip Dashboard](assets/streaksip-screenshot.svg)
 
 
